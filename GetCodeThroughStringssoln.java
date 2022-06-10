@@ -1,4 +1,4 @@
-  //optmised code
+  //optmised code: passes worst testcases
   //paste it inside function
 
              String words[]=input1.split(" ");

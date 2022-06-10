@@ -1,6 +1,6 @@
 
 //paste it inside function
-// its a brute force code not a optimal code
+// its a brute force code not a optimal code passes all test cases
 
 String input[]=input1.split(" ");
 	   int inlen=input.length;

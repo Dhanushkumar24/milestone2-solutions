@@ -1,3 +1,6 @@
+  //optmised code
+  //paste it inside function
+
              String words[]=input1.split(" ");
              int length=words.length;
              int result=0,sum=0;

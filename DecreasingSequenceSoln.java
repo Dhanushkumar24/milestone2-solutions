@@ -16,7 +16,7 @@
 
         }
         int count = 0;
-        int max = -999999999;
+        int max = -999999999;// can use INT_MAX
         for (int k = 0; k < input2; k++) {
             if (arr[k] > 0) {
                 count++;

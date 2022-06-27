@@ -8,14 +8,14 @@
 			sum+=len;
 		}
 		while(sum>9){
-			int temp=sum%10;;
+			int temp=sum%10;
                         sum/=10;
 			result+=temp;
 		}
 		result+=sum;
 		sum=0;
 		while(result>9){
-			int temp=result%10;;
+			int temp=result%10;
                          result/=10;
 			sum+=temp;
 		}
